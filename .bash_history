@@ -131,3 +131,106 @@ vim .gitignore
 git status
 file.gitignore
 file.txt .gitignore
+git status
+vim file1.txt
+git status
+git diff file1.txt
+git diff
+git ls-files
+vim file2.html
+git diff file2.html
+git status
+git restore file2.html
+cat file2.html
+git stats
+git status
+git add .
+git status
+git commit .
+git status
+git add .
+git commit -m"added" .
+git staus
+git status
+git init
+ls -al
+git log
+git log --oneline
+git show 573a3ea 
+git ls-files
+touch file1.html
+touch file1.htm2
+git ls-files
+git add file1.html
+git add file1.htm2
+git ls-files
+clear
+vim file1.html
+git status
+git add file1.html
+git status
+git add file3
+git status
+git log
+git log --oneline
+git show 927ed1a 
+git show 
+git commit -m "done" file1
+vim file2.html
+git status
+git add file2.html
+git status
+git restore --staged file3
+git status
+git diff
+git diff file3
+git log
+git log --oneline
+git diff edeff85 
+git ls-files
+ls
+vim file2.html
+dit diff file2.html
+git diff file2.html
+git rm file2.htm2
+git rm fil12.htm2
+git status
+git log
+git log --oneline
+git -files
+git ls-files
+git add file1.html2
+git add file1.htm2
+git commit -m"delete" file1.htm2
+git rm file1.htm2
+git status
+git log --oneline
+git restore --staged file1.htm2
+git status
+git log --oneline
+git show a0b350c 
+git revert a0b350c 
+git revert 6984767
+ls
+rm -rf file.txt
+git status
+git restore file1.htm2
+git status
+git restore file2.html
+git restore file3
+git status
+git add .
+git status
+git commit .
+git status
+git commit -m"commit" .
+git status
+touch file1.txt file2.txt
+ls
+git status
+vim .gitignore
+git status
+git add .
+git commit -m" git ignore file"
+git status
+ls -al
