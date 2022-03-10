@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1646900387,,"wq"
+|2,0,1646901034,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,76 @@
 # Registers:
 
 # File marks:
-'0  3  8  ~/.gitignore
-|4,48,3,8,1646900387,"~/.gitignore"
-'1  1  15  ~/.git/COMMIT_EDITMSG
-|4,49,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
-'2  3  0  ~/file2.html
-|4,50,3,0,1646899195,"~/file2.html"
-'3  1  4  ~/file2.html
-|4,51,1,4,1646898802,"~/file2.html"
-'4  1  4  ~/file2.html
-|4,52,1,4,1646898802,"~/file2.html"
-'5  1  27  ~/file1.html
-|4,53,1,27,1646898278,"~/file1.html"
-'6  1  1  ~/.gitignore
-|4,54,1,1,1646844464,"~/.gitignore"
-'7  1  1  ~/.gitignore
-|4,55,1,1,1646844464,"~/.gitignore"
-'8  1  1  ~/.gitignore
-|4,56,1,1,1646843288,"~/.gitignore"
-'9  1  1  ~/.gitignore
-|4,57,1,1,1646843288,"~/.gitignore"
+'0  1  13  ~/file2.html
+|4,48,1,13,1646901034,"~/file2.html"
+'1  1  12  ~/file1.txt
+|4,49,1,12,1646900960,"~/file1.txt"
+'2  3  8  ~/.gitignore
+|4,50,3,8,1646900387,"~/.gitignore"
+'3  1  15  ~/.git/COMMIT_EDITMSG
+|4,51,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
+'4  3  0  ~/file2.html
+|4,52,3,0,1646899195,"~/file2.html"
+'5  3  0  ~/file2.html
+|4,53,3,0,1646899195,"~/file2.html"
+'6  1  4  ~/file2.html
+|4,54,1,4,1646898802,"~/file2.html"
+'7  1  4  ~/file2.html
+|4,55,1,4,1646898802,"~/file2.html"
+'8  1  4  ~/file2.html
+|4,56,1,4,1646898802,"~/file2.html"
+'9  1  27  ~/file1.html
+|4,57,1,27,1646898278,"~/file1.html"
 
 # Jumplist (newest first):
+-'  1  13  ~/file2.html
+|4,39,1,13,1646901034,"~/file2.html"
+-'  1  12  ~/file1.txt
+|4,39,1,12,1646900960,"~/file1.txt"
+-'  1  12  ~/file1.txt
+|4,39,1,12,1646900960,"~/file1.txt"
 -'  3  8  ~/.gitignore
 |4,39,3,8,1646900387,"~/.gitignore"
+-'  3  8  ~/.gitignore
+|4,39,3,8,1646900387,"~/.gitignore"
+-'  3  8  ~/.gitignore
+|4,39,3,8,1646900387,"~/.gitignore"
+-'  3  8  ~/.gitignore
+|4,39,3,8,1646900387,"~/.gitignore"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1646900270,"~/.gitignore"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1646900270,"~/.gitignore"
+-'  1  1  ~/.gitignore
+|4,39,1,1,1646900270,"~/.gitignore"
 -'  1  1  ~/.gitignore
 |4,39,1,1,1646900270,"~/.gitignore"
 -'  1  15  ~/.git/COMMIT_EDITMSG
 |4,39,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
 -'  1  15  ~/.git/COMMIT_EDITMSG
 |4,39,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
+-'  1  15  ~/.git/COMMIT_EDITMSG
+|4,39,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
+-'  1  15  ~/.git/COMMIT_EDITMSG
+|4,39,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
+-'  1  15  ~/.git/COMMIT_EDITMSG
+|4,39,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
+-'  1  15  ~/.git/COMMIT_EDITMSG
+|4,39,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
+-'  1  15  ~/.git/COMMIT_EDITMSG
+|4,39,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
+-'  1  15  ~/.git/COMMIT_EDITMSG
+|4,39,1,15,1646900100,"~/.git/COMMIT_EDITMSG"
+-'  3  0  ~/file2.html
+|4,39,3,0,1646899195,"~/file2.html"
+-'  3  0  ~/file2.html
+|4,39,3,0,1646899195,"~/file2.html"
+-'  3  0  ~/file2.html
+|4,39,3,0,1646899195,"~/file2.html"
+-'  3  0  ~/file2.html
+|4,39,3,0,1646899195,"~/file2.html"
+-'  3  0  ~/file2.html
+|4,39,3,0,1646899195,"~/file2.html"
 -'  3  0  ~/file2.html
 |4,39,3,0,1646899195,"~/file2.html"
 -'  3  0  ~/file2.html
@@ -71,6 +111,22 @@
 |4,39,1,4,1646899178,"~/file2.html"
 -'  1  4  ~/file2.html
 |4,39,1,4,1646899178,"~/file2.html"
+-'  1  4  ~/file2.html
+|4,39,1,4,1646899178,"~/file2.html"
+-'  1  4  ~/file2.html
+|4,39,1,4,1646899178,"~/file2.html"
+-'  1  4  ~/file2.html
+|4,39,1,4,1646899178,"~/file2.html"
+-'  1  4  ~/file2.html
+|4,39,1,4,1646899178,"~/file2.html"
+-'  1  4  ~/file2.html
+|4,39,1,4,1646898802,"~/file2.html"
+-'  1  4  ~/file2.html
+|4,39,1,4,1646898802,"~/file2.html"
+-'  1  4  ~/file2.html
+|4,39,1,4,1646898802,"~/file2.html"
+-'  1  4  ~/file2.html
+|4,39,1,4,1646898802,"~/file2.html"
 -'  1  4  ~/file2.html
 |4,39,1,4,1646898802,"~/file2.html"
 -'  1  4  ~/file2.html
@@ -111,144 +167,104 @@
 |4,39,1,27,1646898278,"~/file1.html"
 -'  1  27  ~/file1.html
 |4,39,1,27,1646898278,"~/file1.html"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646844464,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  1  1  ~/.gitignore
-|4,39,1,1,1646843288,"~/.gitignore"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
--'  2  21  ~/file3
-|4,39,2,21,1646840823,"~/file3"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
+-'  1  27  ~/file1.html
+|4,39,1,27,1646898278,"~/file1.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/file2.html
+	*	1646901033	0
+	"	1	13
+	^	1	14
+	.	1	14
+	+	1	4
+	+	2	15
+	+	1	14
+
+> ~/file1.txt
+	*	1646900959	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
 
 > ~/.gitignore
 	*	1646900384	0
@@ -264,14 +280,6 @@
 	^	1	16
 	.	1	15
 	+	1	15
-
-> ~/file2.html
-	*	1646899193	0
-	"	3	0
-	^	3	0
-	.	2	15
-	+	1	4
-	+	2	15
 
 > ~/file1.html
 	*	1646898276	0
